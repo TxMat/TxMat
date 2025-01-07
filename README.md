@@ -12,15 +12,15 @@ Enjoy ! 🎊
 
 ## ● Most used languages according to me 💻
 ![Rust](https://img.shields.io/badge/Rust-655859?style=for-the-badge&logo=Rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## ● Public projects Stats 📖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TxMat&show_icons=true&theme=midnight-purple)
 
 ## ● Some infos on my streaks ✔️
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TxMat&theme=midnight-purple)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TxMat&theme=midnight-purple)
 
 ## ● Contact 📫
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-ponal-373b84236/)
