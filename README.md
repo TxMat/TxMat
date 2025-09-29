@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Building awsome things with Rust 🦀 at Lyon2 ☄️
+Building awsome things with Rust 🦀 at IM²AG ☄️
 
 Also check my [Gitlab](https://gitlab.com/TxMat) !
 
